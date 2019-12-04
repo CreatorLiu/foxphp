@@ -1,0 +1,23 @@
+{
+  "name": "liudianbing/foxphp",
+  "description": "createLiu project",
+  "keywords": [
+    "createLiu",
+    "foxphp"
+  ],
+  "license": [
+    "Apache-2-0"
+  ],
+  "authors": [
+    {
+      "name": "liudianbing",
+      "email": "490602101@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "files": [
+      "index.php"
+    ]
+  }
+}
